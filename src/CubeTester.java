@@ -5,6 +5,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class CubeTester {
 
+
+
     @Test
     public void TestNoArgumentConstructorNoException() {
         Cube cube = new Cube();
